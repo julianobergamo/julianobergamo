@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julianobergamo
 - 👀 I’m interested in accounting, investmente, IT, and languages
 - 🌱 I’m currently learning mongoDB, python, and kubernetes
-- 💞️ I’m looking to collaborate on any project that involves subject that I'm learning
+- 💞️ I’m looking to collaborate on project involving any subject that learning
 - 📫 How to reach me: julianobergamo@gmail.com
 
 <!---
